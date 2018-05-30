@@ -1,0 +1,16 @@
+C:\Users\gbiju\Desktop\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\gbiju\Desktop\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\gbiju\Desktop\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\gbiju\Desktop\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+C:\Users\gbiju\Desktop\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\gbiju\Desktop\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\gbiju\Downloads\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\gbiju\Downloads\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\gbiju\Downloads\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\goelm\Documents\University\Course\Stage 1\SOFT153 - Algorithms, Data Structures and Mathematics\Assignments\Algorithms\Coursework\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\goelm\Documents\University\Course\Stage 1\SOFT153 - Algorithms, Data Structures and Mathematics\Assignments\Algorithms\Coursework\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\goelm\Documents\University\Course\Stage 1\SOFT153 - Algorithms, Data Structures and Mathematics\Assignments\Algorithms\Coursework\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\goelm\Documents\University\Course\Stage 1\SOFT153 - Algorithms, Data Structures and Mathematics\Assignments\Algorithms\Coursework\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+C:\Users\goelm\Documents\University\Course\Stage 1\SOFT153 - Algorithms, Data Structures and Mathematics\Assignments\Algorithms\Coursework\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\goelm\Documents\University\Course\Stage 1\SOFT153 - Algorithms, Data Structures and Mathematics\Assignments\Algorithms\Coursework\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\goelm\Documents\University\Course\Stage 1\SOFT153 - Algorithms, Data Structures and Mathematics\Assignments\Algorithms\Coursework\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
